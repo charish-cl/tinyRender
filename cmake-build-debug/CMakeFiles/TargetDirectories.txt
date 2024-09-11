@@ -1,0 +1,3 @@
+C:/Project/tinyRender/cmake-build-debug/CMakeFiles/tinyRender.dir
+C:/Project/tinyRender/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Project/tinyRender/cmake-build-debug/CMakeFiles/rebuild_cache.dir
