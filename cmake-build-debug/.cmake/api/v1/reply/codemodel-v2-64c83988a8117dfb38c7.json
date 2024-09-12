@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Administrator/Desktop/Feng/tinyRender/cmake-build-debug",
-		"source" : "C:/Users/Administrator/Desktop/Feng/tinyRender"
+		"build" : "C:/Project/tinyRender/cmake-build-debug",
+		"source" : "C:/Project/tinyRender"
 	},
 	"version" : 
 	{
